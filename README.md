@@ -9,7 +9,7 @@
 1. oss기초1
 2. oss심화
 
-* oss기초
+* oss기초  
 - oss심화
 
 $$E=mc^2$$
